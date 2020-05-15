@@ -1,5 +1,7 @@
 This Project is based on Prediction of Interest Rates of Loans from the Lending Club Loan Data.
 
+CLAAT Document Link: https://codelabs-preview.appspot.com/?file_id=1G2ItLaq5UhDOsgHzytL7jwxbJWeX0_atEB0mXcQel30#7
+
 Steps to Regenerate the Project:
 
 1. Clone the Project into any directory of your choice
